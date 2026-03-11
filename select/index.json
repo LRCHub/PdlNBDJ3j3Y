@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "LINE",
+  "base_artist": "RiN",
+  "createdAt": "2026-03-11T18:40:04.993796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pride Of The White Star Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Pride_Of_The_White_Star_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Grey Funnel Line",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/02_The_Grey_Funnel_Line_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line)",
+      "artist": "Chase Rice",
+      "has_synced": true,
+      "path": "select/03_Drinkin'_Beer._Talkin'_God._Amen._(feat._Florida_Georgia_Line)_Chase_Rice.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Drinkin' Beer. Talkin' God. Amen. (feat. Florida Georgia Line)",
+      "artist": "Chase Rice",
+      "has_synced": true,
+      "path": "select/04_Drinkin'_Beer._Talkin'_God._Amen._(feat._Florida_Georgia_Line)_Chase_Rice.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hold The Line",
+      "artist": "TOTO",
+      "has_synced": true,
+      "path": "select/05_Hold_The_Line_TOTO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Meant to Be (feat. Florida Georgia Line)",
+      "artist": "Bebe Rexha",
+      "has_synced": true,
+      "path": "select/06_Meant_to_Be_(feat._Florida_Georgia_Line)_Bebe_Rexha.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Right Down The Line",
+      "artist": "Gerry Rafferty",
+      "has_synced": true,
+      "path": "select/07_Right_Down_The_Line_Gerry_Rafferty.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Long Line of Love",
+      "artist": "Michael Martin Murphey",
+      "has_synced": false,
+      "path": "select/08_A_Long_Line_of_Love_Michael_Martin_Murphey.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Long Line of Love (Album Version)",
+      "artist": "Michael Martin Murphey",
+      "has_synced": false,
+      "path": "select/09_A_Long_Line_of_Love_(Album_Version)_Michael_Martin_Murphey.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Comal County Line",
+      "artist": "Randy Rogers Band",
+      "has_synced": false,
+      "path": "select/10_Comal_County_Line_Randy_Rogers_Band.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "County Line",
+      "artist": "Breland",
+      "has_synced": true,
+      "path": "select/11_County_Line_Breland.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "End Of The Line",
+      "artist": "Dr. John feat. Aaron Neville",
+      "has_synced": true,
+      "path": "select/12_End_Of_The_Line_Dr._John_feat._Aaron_Neville.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "End Of The Line",
+      "artist": "Dr. John",
+      "has_synced": true,
+      "path": "select/13_End_Of_The_Line_Dr._John.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Can Walk the Line (If It Ain't Too Straight)",
+      "artist": "Joe Diffie",
+      "has_synced": false,
+      "path": "select/14_I_Can_Walk_the_Line_(If_It_Ain't_Too_Straight)_Joe_Diffie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Can Walk The Line (If It Ain't Too Straight) (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": false,
+      "path": "select/15_I_Can_Walk_The_Line_(If_It_Ain't_Too_Straight)_(Album_Version)_Joe_Diffie.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Walk the Line",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/16_I_Walk_the_Line_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "I Walk the Line",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/17_I_Walk_the_Line_Johnny_Cash.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LINE",
+      "artist": "RiN",
+      "has_synced": false,
+      "path": "select/pl_01_LINE_RiN.txt"
+    }
+  ]
+}
